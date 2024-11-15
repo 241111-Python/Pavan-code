@@ -1,0 +1,62 @@
+Heads: 0
+Tails: 3
+Heads: 0
+Tails: 3
+Heads: 4
+Tails: 4
+====== Stattistics Update ======
+Heads: 5
+Tails: 4
+================================
+====== Stattistics Update ======
+Heads: 5
+Tails: 4
+================================
+====== Stattistics Update ======
+Heads: 5
+Tails: 4
+================================
+====== Stattistics Update ======
+Heads: 6
+Tails: 4
+================================
+====== Statistics Update ======
+Heads: 6
+Tails: 0
+================================
+====== Statistics Update ======
+Heads: 6
+Tails: 0
+================================
+====== Statistics Update ======
+Heads: 6
+Tails: 5
+================================
+====== Coin Flip Statistics ======
+Heads: 6
+Tails: 5
+================================
+====== Coin Flip Statistics ======
+Heads: 6
+Tails: 6
+================================
+====== Coin Flip Statistics ======
+Heads: 7
+Tails: 7
+================================
+====== Coin Flip Statistics ======
+Heads: 8
+Tails: 7
+================================
+====== Coin Flip Statistics ======
+Heads: 8
+Tails: 7
+================================
+====== Coin Flip Statistics ======
+Heads: 9
+Tails: 7
+================================
+====== Coin Flip Statistics ======
+Heads: 9
+Tails: 7
+================================
